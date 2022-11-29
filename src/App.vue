@@ -6,10 +6,14 @@ import HelloWordExample from "./components/HelloWordExample.vue";
 import HandingUserInput from "./components/HandingUserInput.vue";
 import AttributeBindings from "./components/AttributeBindings.vue";
 import ConditionsAndLoops from "./components/ConditionAndLoops.vue";
+import FormBinding from "./components/FormBinding.vue";
 </script>
 
 <template>
   <div>
+    <FormBinding></FormBinding>
+    <br />
+    <br />
     <ConditionsAndLoops></ConditionsAndLoops>
     <br />
     <br />
