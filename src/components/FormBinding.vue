@@ -48,6 +48,6 @@ const multipleSelected = ref([""]);
     <option value="2">B</option>
     <option value="3">C</option>
 </select>
-<span>Multiple Selected {{ multipleSelected }}</span>
+<span>MultipleSelected {{ multipleSelected }}</span>
 
 </template>
